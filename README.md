@@ -1,5 +1,3 @@
-日本語版
-
 PROCESS PIPING DESIGN TOOL Ver.4.2
 
 主な機能
