@@ -21,4 +21,28 @@ PROCESS PIPING DESIGN TOOL Ver.4.2
 ・CSV入出力
 ・フィードバックフォーム対応
 
+PROCESS PIPING DESIGN TOOL Ver.4.2
+
+Key Features
+・Route Builder using Direction + Length
+・Isometric Route Preview
+・Darcy-Weisbach Pressure Loss Calculation
+・Automatic Elevation Calculation
+・Automatic Max Elevation Detection
+・Automatic 90° Elbow Detection
+・Minor Loss Library
+　・45° Elbow
+　・Valve
+　・Expansion
+　・Contraction
+　・Tee
+　・Strainer
+・System Summary Dashboard
+・Detailed Calculation Results
+・Calculation Flow Visualization
+・Equation Reference Guide
+・CSV Import / Export
+・Feedback Form
+
+
 Created by Kyotaro.H
